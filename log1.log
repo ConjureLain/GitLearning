@@ -1,0 +1,8 @@
+[main] DEBUG com.Han.Log.Test01_Log4j - Debug Message
+[main] INFO com.Han.Log.Test01_Log4j - Info Message
+[main] WARN com.Han.Log.Test01_Log4j - Warnning
+[main] ERROR com.Han.Log.Test01_Log4j - Error
+[main] FATAL com.Han.Log.Test01_Log4j - Fatal!
+[main] ERROR com.Han.Log.Test01_Log4j - Exception
+java.lang.NullPointerException: Null Pointer Exception
+	at com.Han.Log.Test01_Log4j.main(Test01_Log4j.java:18)
