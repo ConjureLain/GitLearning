@@ -13,7 +13,7 @@ public class Test01_Log4j {
 		logger.info("Info Message");
 		logger.warn("Warnning");
 		logger.error("Error");
-		logger.fatal("Fatal!");
+		logger.fatal("GitDevFatal!");
 		
 		logger.error("Exception", new NullPointerException("Null Pointer Exception"));
 		
